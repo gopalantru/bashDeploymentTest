@@ -1,0 +1,4 @@
+2025-03-24 16:13:19 - Pulling latest changes from branch: bashscript
+2025-03-24 16:13:20 - No package.json found, skipping dependency installation.
+2025-03-24 16:13:20 - Restarting application with PM2...
+2025-03-24 16:13:20 - PM2 restart failed. Exiting.
