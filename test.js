@@ -2,4 +2,4 @@ console.log("Hi");
 console.log("Hello");
 console.log("good morning");
 console.log("good morning");
-console.log("testing ---1");
+console.log("testing");
